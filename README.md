@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Akash Kumar<br><br>🎓 B.E. Computer Science Graduate with Specialization in Cloud Computing.<br><br>💻 Aspiring Data Analyst & Data Engineer, passionate for building real-world web applications.<br><br>🚀 Currently working on AWS services, Event-Driven pipelines and Data analytics to improve problem-solving skills.<br><br>🔧 Tech Stack: AWS, Power BI, SQL, Python, Excel, Numpy & Pandas, ETL, Azure Data Factory.<br><br>📈 Actively learning Azure Cloud, Data Engineering, CI/CD pipelines, Kubernetes and Terraform.<br><br>🤝 Open to job opportunities PAN India.<br><br>🎯 Goal: To become a skilled Data Engineer and work on impactful products.
+👋 Hi, I'm Akash Kumar<br><br>🎓 B.E. Computer Science Graduate with Specialization in Cloud Computing.<br><br>💻 Aspiring Data Analyst & Data Engineer, passionate for building real-world web applications.<br><br>🚀 Currently working on AWS services, Event-Driven pipelines and Data analytics to improve problem-solving skills.<br><br>🔧 Tech Stack: AWS, Power BI, SQL, Python, Excel, Numpy & Pandas, ETL, Azure Data Factory.<br><br>📈 Actively learning Azure Cloud, Data Engineering, CI/CD pipelines, Kubernetes and Terraform.<br><br>🤝 Open to job opportunities across PAN India.<br><br>🎯 Goal: To become a skilled Data Engineer and work on impactful products.
 
 
 ## 🌐 Socials:
